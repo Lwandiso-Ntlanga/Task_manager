@@ -1,0 +1,7 @@
+admin, adm1n
+dave, d@ve
+que, qu3
+james, jame$
+sam, $am
+lee, l33
+ace, ac3

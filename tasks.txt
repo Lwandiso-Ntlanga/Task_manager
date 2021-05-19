@@ -1,0 +1,9 @@
+admin, 1001, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+sam, 1002, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, Yes
+dave, 1003, Task 20, Portfolio project about task management., 15 May 2021, 22 Apr 2021, No
+que, 1004, Financial Calculator, Calculates bank interest, 19 Apr 2021, 22 Apr 2021, Yes
+james, 1005, Sales Report, Complete report on all sales for the month of June., 23 Jul 2021, 22 Apr 2021, No
+lee, 1006, PR, Review our current public relations., 2 May 2021, 22 Apr 2021, Yes
+lee, 1007, App advert, Contact advertising agency to set up a meeting., 14 May 2021, 01 May 2021, No
+admin, 1008, Report, The adin should generate a report of all tasks., 4 May 2021, 05 May 2021, Yes
+admin, 1009, Youtube review, Review the comment section from the lastest youtube video for feedback., 5 Jun 2021, 05 May 2021, No
