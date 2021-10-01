@@ -1,4 +1,4 @@
-#Capstone_3_Task_manager\
+Task_manager\
 The program helps progress tracking by means of managing tasks and users of an organisation.\
 Program verifies the user and their password if it corresponds to the details of user.txt file. In order to determine the menu options available which are user specific.\
 The admin gets six menu options available, admin is the only one that can Register new users, Generate reports and View statistics.\
